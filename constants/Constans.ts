@@ -1,7 +1,7 @@
 export type NavLink = {
   id: number;
   label: string;
-  href: string; // Use section names, ensure these are unique
+  href: string; 
 };
 
 export const navLinks: NavLink[] = [

@@ -1,4 +1,4 @@
-import { navLinks } from '@/constants/Constans';  // Corrected import
+import { navLinks } from '@/constants/Constans';  
 import React from 'react';
 import { BiUser, BiWallet } from 'react-icons/bi';
 import { FaBars } from 'react-icons/fa';

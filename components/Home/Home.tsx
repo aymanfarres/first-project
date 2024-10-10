@@ -21,7 +21,7 @@ function Home() {
       });
     };
     initAOS();
-  }, []); // Adding the dependency array here to initialize only once
+  }, []); 
 
   return (
     <div>
